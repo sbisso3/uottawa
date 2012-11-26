@@ -1,8 +1,8 @@
 <?php
 
 function uottawa_install() {
-  theme_enable(array('rubik', 'uottawa_zen_assets'));
-  variable_set('admin_theme', 'rubik');
+  theme_enable(array('seven', 'uottawa_zen_assets'));
+  variable_set('admin_theme', 'seven');
   variable_set('theme_default', 'uottawa_zen_assets');
   _system_rebuild_theme_data();
   drupal_theme_rebuild();
