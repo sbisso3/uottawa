@@ -23,33 +23,33 @@ dependencies[] = toolbar
 dependencies[] = user
 
 ; PANOPOLY
-dependencies[] = panopoly_core
-dependencies[] = panopoly_images
-dependencies[] = panopoly_theme
-dependencies[] = panopoly_magic
-dependencies[] = panopoly_widgets
-dependencies[] = panopoly_admin
-dependencies[] = panopoly_users
+;dependencies[] = panopoly_core
+;dependencies[] = panopoly_images
+;dependencies[] = panopoly_theme
+;dependencies[] = panopoly_magic
+;dependencies[] = panopoly_widgets
+;dependencies[] = panopoly_admin
+;dependencies[] = panopoly_users
 
 ; WETKIT
-dependencies[] = wetkit_images
-dependencies[] = wetkit_widgets
-dependencies[] = wetkit_pages
-dependencies[] = wetkit_wysiwyg
-dependencies[] = wetkit_language
-dependencies[] = wetkit_wetboew
+;dependencies[] = wetkit_images
+;dependencies[] = wetkit_widgets
+;dependencies[] = wetkit_pages
+;dependencies[] = wetkit_wysiwyg
+;dependencies[] = wetkit_language
+;dependencies[] = wetkit_wetboew
 
 ; UOTTAWA
-dependencies[] = bean
-dependencies[] = better_formats
-dependencies[] = bundle_api
-dependencies[] = content_snippets
-dependencies[] = draggableviews
-dependencies[] = libraries
-dependencies[] = globalredirect
-dependencies[] = uottawa_lang_editor
-dependencies[] = superpreview
-dependencies[] = panels_title
+;dependencies[] = bean
+;dependencies[] = better_formats
+;dependencies[] = bundle_api
+;dependencies[] = content_snippets
+;dependencies[] = draggableviews
+;dependencies[] = libraries
+;dependencies[] = globalredirect
+;dependencies[] = uottawa_lang_editor
+;dependencies[] = superpreview
+;dependencies[] = panels_title
 
 ; DEVEL
 ;dependencies[] = coder
