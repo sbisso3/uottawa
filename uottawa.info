@@ -3,15 +3,15 @@ description = Install with all the commonly used features for the University of 
 core = 7.x
 
 ; CORE DEPENDENCIES
-;dependencies[] = block
-;dependencies[] = dblog
-;dependencies[] = field
-;dependencies[] = field_ui
-;dependencies[] = file
-;dependencies[] = filter
-;dependencies[] = image
-;dependencies[] = list
-;dependencies[] = locale
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = image
+dependencies[] = list
+dependencies[] = locale
 ;dependencies[] = menu
 ;dependencies[] = node
 ;dependencies[] = number
