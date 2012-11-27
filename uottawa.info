@@ -17,10 +17,10 @@ dependencies[] = node
 dependencies[] = number
 dependencies[] = options
 dependencies[] = overlay
-;dependencies[] = path
-;dependencies[] = taxonomy
-;dependencies[] = toolbar
-;dependencies[] = user
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = toolbar
+dependencies[] = user
 
 ; PANOPOLY
 ;dependencies[] = panopoly_core
@@ -40,18 +40,18 @@ dependencies[] = overlay
 ;dependencies[] = wetkit_wetboew
 
 ; UOTTAWA
-;dependencies[] = bean
-;dependencies[] = better_formats
-;dependencies[] = bundle_api
-;dependencies[] = content_snippets
-;dependencies[] = draggableviews
-;dependencies[] = libraries
-;dependencies[] = globalredirect
-;dependencies[] = uottawa_lang_editor
-;dependencies[] = superpreview
-;dependencies[] = panels_title
+dependencies[] = bean
+dependencies[] = better_formats
+dependencies[] = bundle_api
+dependencies[] = content_snippets
+dependencies[] = draggableviews
+dependencies[] = libraries
+dependencies[] = globalredirect
+dependencies[] = uottawa_lang_editor
+dependencies[] = superpreview
+dependencies[] = panels_title
 
 ; DEVEL
-;dependencies[] = coder
-;dependencies[] = coder_tough_love
-;dependencies[] = devel
+dependencies[] = coder
+dependencies[] = coder_tough_love
+dependencies[] = devel
